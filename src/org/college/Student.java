@@ -6,7 +6,11 @@ public class Student extends College {
 	}
 	public void studentDept() {
 		System.out.println("mech");
+		System.out.println("Mechanical Department");
 		System.out.println("Yes possible ");
+
+		
+
 	}
 	public void studentId() {
 		System.out.println("12ece123");
